@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Vitchii
-- 👨‍💻 I’m a software engineer that specializes in frontend web development
-- 🌱 I have solid foundations in HTML, CSS, JAVASCRIPT, REACT & more
-- 👀 I’m looking forward to job opportunities in frontend development that would help in kick starting my career & improving my skills
+- 👨‍💻I'm a software engineer specializing in frontend web development.
+- 🌱 I have a solid foundation in HTML, CSS, JavaScript, React, and more.
+- 👀 I'm actively seeking job opportunities in frontend development to kickstart my career and further enhance my skills.
 - 📫 You can reach me via mail: vitchiivibes@gmail.com
+
 
 <!--
 **Vitchiana/Vitchiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
