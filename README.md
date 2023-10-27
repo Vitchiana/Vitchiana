@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vitchii
 - 👨‍💻 I’m a software engineer that specializes in frontend web development
 - 🌱 I have solid foundations in HTML, CSS, JAVASCRIPT, REACT & more
-- 👀 I’m looking forward to job oportunities in frontend development that would help in kick starting my career & improving my skills
+- 👀 I’m looking forward to job opportunities in frontend development that would help in kick starting my career & improving my skills
 - 📫 You can reach me via mail: vitchiivibes@gmail.com
 
 <!--
