@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Victor
-- 👨‍💻I'm a software engineer specializing in frontend web development.
-- 🌱 I have a solid foundation in HTML, CSS, JavaScript, React, and more.
-- 👀 I'm actively seeking job opportunities in frontend development to kickstart my career and further enhance my skills.
-- 📫 You can reach me via mail: junioreckvictor@gmail.com
+
+- 📫 Reach me via mail: junioreckvictor@gmail.com
 
 
 <!--
