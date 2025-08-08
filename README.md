@@ -1,5 +1,10 @@
+# Hi, I’m Victor Akan 👋
+I'm a Frontend Engineer focused on building fast, elegant, and user-friendly interfaces.
 
-- 📫 Reach me via mail: junioreckvictor@gmail.com
+🌐 I use: React · TypeScript · Tailwind CSS · Next.js  
+💼 Currently applying for Senior Frontend Engineer roles  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/victor-okure) · [Email](junioreckvictor@gmail.com)
+
 
 
 <!--
