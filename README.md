@@ -1,4 +1,4 @@
-# Hi, I’m Victor Akan 👋
+# Hi, I’m Victor Okure 👋
 I'm a Frontend Engineer focused on building fast, elegant, and user-friendly interfaces.
 
 🌐 I use: React · TypeScript · Tailwind CSS · Next.js  
